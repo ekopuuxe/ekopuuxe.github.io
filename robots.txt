@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekopuuxe.github.io/UCl/sitemap_index.txt
+Sitemap: https://ekopuuxe.github.io/fFx/sitemap_index.txt
+Sitemap: https://ekopuuxe.github.io/nyC/sitemap_index.txt
+Sitemap: https://ekopuuxe.github.io/qcM/sitemap_index.txt
